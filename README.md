@@ -2,7 +2,7 @@
 
 > **Bear in mind:** this is **Part 1 of a 2-part lab**.
 > **This part is me reading + explaining the script logic.**
-> **Part 2 will be me testing it on the EC2 instance and verifying the results in cloud-init logs.**
+> [Part 2 will be me testing it on the EC2 instance and verifying the results in cloud-init logs.](https://github.com/1suleyman/-Linux-Lab-1-Bootstrap-Automation-user_data.sh-Part-2-Testing-Debugging-)
 
 In this lab, I explained how my `user_data.sh` script automates **Lab 1 Linux admin setup** (users, groups, passwords, directory structure, ownership), so **Lab 2 starts in a ready-to-go state**.
 
